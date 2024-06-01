@@ -1,7 +1,7 @@
 # HydraManual
 
 Синтаксис: hydra [[[-l LOGIN|-L FILE] [-p PASS|-P FILE]] | [-C FILE]] [-e nsr] [-o FILE] [-t TASKS] [-M FILE [-T TASKS]] [-w TIME] [-W TIME] [-f] [-s PORT] [-x MIN:MAX:CHARSET] [-c TIME] [-ISOuvVd46] [-m MODULE_OPT] [service://server[:PORT][/OPT]]
-Опцыъ:
+Опції:
   -R        Відновлення попереднього перерваного сеансу
   -I        Ігнорувати існуючий файл відновлення (не чекати 10 секунд)
   -S        Виконати SSL-підключення
